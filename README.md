@@ -1,8 +1,10 @@
 ## Fraud_Detection
-#Context
+##Context
+
 This dataset contains rows of known fraud and valid transactions made over Ethereum, a type of cryptocurrency. This dataset is imbalanced, so keep that in mind when modelling
 
-#Content
+##Content
+
 Here is a description of the rows of the dataset:
 
 Index: the index number of a row
