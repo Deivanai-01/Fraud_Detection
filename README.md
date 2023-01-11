@@ -97,3 +97,6 @@ ERC20_Uniq_Rec_Token_Name: Number of Unique ERC20 tokens received
 ERC20_Most_Sent_Token_Type: Most sent token for account via ERC20 transaction
 
 ERC20_Most_Rec_Token_Type: Most received token for account via ERC20 transactions
+
+**Dataset**
+https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset/download?datasetVersionNumber=1
